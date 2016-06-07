@@ -1,9 +1,9 @@
 //
 //  UIColor+helper.m
-//  Kline
+//  UIColor+helper
 //
-//  Created by zhaomingxi on 14-2-9.
-//  Copyright (c) 2014年 zhaomingxi. All rights reserved.
+//  Created by yanyuewen on 14-2-9.
+//  Copyright (c) 2014年 yanyuewen. All rights reserved.
 //
 
 #import "UIColor+helper.h"
