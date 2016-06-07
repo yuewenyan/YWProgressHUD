@@ -1,9 +1,9 @@
 //
-//  LBProgressHUD.h
-//  LuckyBuy
+//  YWProgressHUD.h
+//  YWProgressHUD
 //
-//  Created by huangtie on 16/3/9.
-//  Copyright © 2016年 Qihoo. All rights reserved.
+//  Created by yanyuewen on 16/3/9.
+//  Copyright © 2016年 yanyuewen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
