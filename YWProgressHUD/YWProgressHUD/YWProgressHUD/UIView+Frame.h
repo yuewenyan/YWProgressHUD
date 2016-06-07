@@ -1,9 +1,9 @@
 //
 //  UIView+Frame.h
-//  YYpipi
+//  UIView+Frame
 //
 //  Created by 闫跃文 on 15/12/7.
-//  Copyright © 2015年 com.hy-agency.shengtong. All rights reserved.
+//  Copyright © 2015年 yanyuewen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
